@@ -1,2 +1,2 @@
-# jurnal_magang
+# jurnal_magang/github.io
 Jurnal Magang
